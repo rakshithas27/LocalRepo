@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(167, 222, 242);
+}
+
+h3 {
+    font-style: italic;
+    border: 2px solid blue;
+}
